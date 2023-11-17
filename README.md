@@ -5,3 +5,4 @@ This program must be run with administrative privileges.
 
 ## Dependencies
   - colorama (0.4.6 or newer)
+  - PowerShell
